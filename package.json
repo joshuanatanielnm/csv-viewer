@@ -1,0 +1,28 @@
+{
+  "name": "csv-viewer",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "10.0.7",
+    "react": "17.0.1",
+    "react-autocomplete": "^1.8.1",
+    "react-csv-reader": "^3.3.0",
+    "react-dom": "17.0.1",
+    "react-virtualized": "^9.22.3",
+    "styled-components": "^5.2.1"
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "joshuanatanielm",
+  "license": "ISC",
+  "keywords": [
+    "react",
+    "virtualized"
+  ]
+}
